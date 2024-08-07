@@ -1,0 +1,9 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "disabled",
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
